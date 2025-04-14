@@ -2,9 +2,18 @@
 
 A customized LaTeX resume template based on the [fky2015/resume-ng](https://github.com/fky2015/resume-ng) project, modified to fit personal needs.
 
-## Overleaf 在线平台
+## 使用方法
 
-直接访问[此链接](https://www.overleaf.com/read/ygxtzycvwyqm)即可。
+### 本地编译
+
+0. 确保已经安装 LaTeX 发行版。
+1. **克隆或下载**本项目代码。
+2. 直接运行 `latexmk` 即可。
+
+### Overleaf 在线平台
+
+
+直接访问[此链接](https://www.overleaf.com/docs?snip_uri=https://github.com/wxndong/CV-Template/releases/download/V1.0/CV-Template.zip&engine=xelatex)即可。
 
 > [!IMPORTANT]
 > Overleaf使用时，需要手动设置XeLaTex编译: 左上角Menu -> Settings -> Compiler -> XeLaTex 
@@ -46,4 +55,4 @@ A customized LaTeX resume template based on the [fky2015/resume-ng](https://gith
 
 ## 致谢
 
-该项目主要受到 [fky2015/resume-ng](https://github.com/fky2015/resume-ng) 的启发，
+该项目主要受到 [fky2015/resume-ng](https://github.com/fky2015/resume-ng) 的启发，结合自身需求修改得到。
